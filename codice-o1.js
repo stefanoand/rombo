@@ -10,12 +10,12 @@ define(['pipAPI', 'https://raw.githubusercontent.com/stefanoand/rombo/main/codic
 		      height : 7 //Used to position the "Or" in the combined block.
 		    }, 
 		    media : [ //Stimuli content as PIP's media objects
-    		    	{image : 'black1.jpg'}, 
-    			{image : 'black2.jpg'}, 
-    			{image : 'black3.jpg'}, 
-    			{image : 'black4.jpg'}, 
-    			{image : 'black5.jpg'}, 
-    			{image : 'black6.jpg'}
+    		    	{image : 'team1.jpg'}, 
+    			{image : 'team2.jpg'}, 
+    			{image : 'team3.jpg'}, 
+    			{image : 'team4.jpg'}, 
+    			{image : 'team5.jpg'}, 
+    			{image : 'team6.jpg'}
 		    ], 
 		    //Stimulus css (style)
 		    css : {color:'#31b404','font-size':'3em'}
