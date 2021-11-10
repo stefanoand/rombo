@@ -32,8 +32,8 @@ define(['pipAPI', 'https://raw.githubusercontent.com/stefanoand/rombo/main/codic
 				height : 7 //Used to position the "Or" in the combined block.
 			}, 
 			media : [ //Stimuli
-				{word: 'Bomb'},
-				{word: 'Abuse'},
+				{word: 'Bomba'},
+				{word: 'Abuso'},
 				{word: 'Sadness'},
 				{word: 'Pain'},
 				{word: 'Poison'},
