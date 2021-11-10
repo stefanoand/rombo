@@ -9,16 +9,15 @@ define(['pipAPI', 'https://raw.githubusercontent.com/stefanoand/rombo/main/codic
 		      css : {color:'#31b404','font-size':'2em'}, //Style of the category title.
 		      height : 7 //Used to position the "Or" in the combined block.
 		    }, 
-		    media : [ //Stimuli content as PIP's media objects
-    		    	{word: 'Bomb'},
-				{word: 'Abuse'},
-				{word: 'Sadness'},
-				{word: 'Pain'},
-				{word: 'Poison'},
-				{word: 'Grief'}
-		    ], 
+		    media : [ //Stimuli
+			{word: 'Tyron'},
+			{word: 'Malik'},
+			{word: 'Terrell'},
+			{word: 'Jazmin'},
+			{word: 'Tiara'},
+			{word: 'Shanice'}		    ], 
 		    //Stimulus css (style)
-		    css : {color:'#31b404','font-size':'3em'}
+		    // css : {color:'#31b404','font-size':'3em'}
 		  },	
 
   		attribute1 : 
