@@ -61,7 +61,7 @@ define(['pipAPI', 'https://raw.githubusercontent.com/stefanoand/rombo/main/codic
 			},
 
   base_url : {//Where are your images at?
-    image : 'https://baranan.github.io/minno-tasks/images/'
+    image : 'https://lilia.dpss.psy.unipd.it/rombola/img/'
   }}
   );
   });
