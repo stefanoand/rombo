@@ -34,10 +34,10 @@ define(['pipAPI', 'https://raw.githubusercontent.com/stefanoand/rombo/main/codic
 			media : [ //Stimuli
 				{word: 'Bomba'},
 				{word: 'Abuso'},
-				{word: 'Sadness'},
-				{word: 'Pain'},
-				{word: 'Poison'},
-				{word: 'Grief'}
+				{word: 'Tristezza'},
+				{word: 'Dolore'},
+				{word: 'Veleno'},
+				{word: 'Stress'}
 			], 
 			//Can change color and size of the targets here.
 			css : {color:'#31b404','font-size':'3em'}
@@ -51,12 +51,12 @@ define(['pipAPI', 'https://raw.githubusercontent.com/stefanoand/rombo/main/codic
 				height : 7 //Used to position the "Or" in the combined block.
 			}, 
 			media : [ //Stimuli
-				{word: 'Paradise'},
-				{word: 'Pleasure'},
-				{word: 'Cheer'},
-				{word: 'Wonderful'},
-				{word: 'Splendid'},
-				{word: 'Love'}
+				{word: 'Paradiso'},
+				{word: 'Divertimento'},
+				{word: 'Allegria'},
+				{word: 'Bello'},
+				{word: 'Splendido'},
+				{word: 'Amore'}
 			], 
 			//Can change color and size of the targets here.
 			css : {color:'#31b404','font-size':'3em'}
